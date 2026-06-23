@@ -41,3 +41,14 @@
 
 // let name = alert("Remember my name");
 // console.log(name);
+
+
+// var age = Number(prompt('Enter your age'))
+// if(age>18) {
+//     console.log("eligible");
+    
+// } else{
+//     console.log("not eligible");
+    
+// }
+// console.log(typeof(age));
